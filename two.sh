@@ -1,3 +1,0 @@
-Docker
-ansible
-chef

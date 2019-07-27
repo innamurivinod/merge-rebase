@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 this is new file f3
 this is new file f4
 this is new file f5
+=======
+this is new file f3
+>>>>>>> parent of 056c4c3... f4

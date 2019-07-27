@@ -1,4 +1,3 @@
-git
-maven 
 jenkins
-nexus
+ansible
+
